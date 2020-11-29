@@ -1,0 +1,1 @@
+I know the DECORATOR pattern Therefore I rule
